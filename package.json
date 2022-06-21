@@ -1,0 +1,92 @@
+[{
+	"rowValue": [{
+		"componentType": "DDSelectField",
+		"label": "故障类型/Fault type",
+		"extendValue": {
+			"extension": {
+				"image": ""
+			},
+			"label": "丢码问题 Lost QR Code issues",
+			"key": "option_1L6YQFAIF68W0"
+		},
+		"value": "丢码问题 Lost QR Code issues",
+		"key": "DDSelectField_1IGEL0DUOFZ40"
+	}, {
+		"componentType": "TextField",
+		"label": "故障数量/Number of failures",
+		"value": "46",
+		"key": "TextField_MNZ9W6GQ0800"
+	}, {
+		"componentType": "TextField",
+		"label": "重要问题处理计划/Problem resolution plan",
+		"value": "6.15升级版本后丟码频率增加",
+		"key": "TextField_16OQSYRTVQQO0"
+	}],
+	"rowNumber": "TableField_K404KZ5IATS0_1UOHCD3P5DHC0"
+}, {
+	"rowValue": [{
+		"componentType": "DDSelectField",
+		"label": "故障类型/Fault type",
+		"extendValue": {
+			"label": "实施类问题  Implementation issues",
+			"key": "option_OJXBFUKSON40"
+		},
+		"value": "实施类问题  Implementation issues",
+		"key": "DDSelectField_1IGEL0DUOFZ40"
+	}, {
+		"componentType": "TextField",
+		"label": "故障数量/Number of failures",
+		"value": "4",
+		"key": "TextField_MNZ9W6GQ0800"
+	}, {
+		"componentType": "TextField",
+		"label": "重要问题处理计划/Problem resolution plan",
+		"value": "切货架腿",
+		"key": "TextField_16OQSYRTVQQO0"
+	}],
+	"rowNumber": "TableField_K404KZ5IATS0_KINSNOXYB7K0"
+}, {
+	"rowValue": [{
+		"componentType": "DDSelectField",
+		"label": "故障类型/Fault type",
+		"extendValue": {
+			"label": "AGV硬件问题  AGV hardware  issues",
+			"key": "option_217YWAVAOWCG0"
+		},
+		"value": "AGV硬件问题  AGV hardware  issues",
+		"key": "DDSelectField_1IGEL0DUOFZ40"
+	}, {
+		"componentType": "TextField",
+		"label": "故障数量/Number of failures",
+		"value": "12",
+		"key": "TextField_MNZ9W6GQ0800"
+	}, {
+		"componentType": "TextField",
+		"label": "重要问题处理计划/Problem resolution plan",
+		"value": "拨齿电机问题",
+		"key": "TextField_16OQSYRTVQQO0"
+	}],
+	"rowNumber": "TableField_K404KZ5IATS0_1C99SI1SAAJK0"
+}, {
+	"rowValue": [{
+		"componentType": "DDSelectField",
+		"label": "故障类型/Fault type",
+		"extendValue": {
+			"label": "系统问题  System issues",
+			"key": "option_23LEF4WDEVWG0"
+		},
+		"value": "系统问题  System issues",
+		"key": "DDSelectField_1IGEL0DUOFZ40"
+	}, {
+		"componentType": "TextField",
+		"label": "故障数量/Number of failures",
+		"value": "4",
+		"key": "TextField_MNZ9W6GQ0800"
+	}, {
+		"componentType": "TextField",
+		"label": "重要问题处理计划/Problem resolution plan",
+		"value": "误显示错误锁闭",
+		"key": "TextField_16OQSYRTVQQO0"
+	}],
+	"rowNumber": "TableField_K404KZ5IATS0_PQJZ766EM680"
+}]

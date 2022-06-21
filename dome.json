@@ -1,0 +1,50 @@
+[{
+	"rowValue": [{
+		"componentType": "DDSelectField",
+		"label": "故障类型/Fault type",
+		"extendValue": {
+			"label": "AGV程序问题  AGV program  issues",
+			"key": "option_1S0JF8CA4Y4G0"
+		},
+		"value": "AGV程序问题  AGV program  issues",
+		"key": "DDSelectField_1IGEL0DUOFZ40"
+	}, {
+		"componentType": "TextField",
+		"label": "故障数量/Number of failures",
+		"value": "2",
+		"key": "TextField_MNZ9W6GQ0800"
+	}, {
+		"componentType": "TextField",
+		"label": "重要问题处理计划/Problem resolution plan",
+		"value": "已处理",
+		"key": "TextField_16OQSYRTVQQO0"
+	}],
+	"rowNumber": "TableField_K404KZ5IATS0_OEY7MG28JF40"
+}, {
+	"rowValue": [{
+		"componentType": "DDSelectField",
+		"label": "故障类型/Fault type",
+		"extendValue": {
+			"label": "其他  others",
+			"key": "option_1W0IKGHUNPLS0"
+		},
+		"value": "其他  others",
+		"key": "DDSelectField_1IGEL0DUOFZ40"
+	}, {
+		"componentType": "TextField",
+		"label": "其他问题/others",
+		"value": "小车触边",
+		"key": "TextField_5HM8JU8VU0W0"
+	}, {
+		"componentType": "TextField",
+		"label": "故障数量/Number of failures",
+		"value": "1",
+		"key": "TextField_MNZ9W6GQ0800"
+	}, {
+		"componentType": "TextField",
+		"label": "重要问题处理计划/Problem resolution plan",
+		"value": "已处理",
+		"key": "TextField_16OQSYRTVQQO0"
+	}],
+	"rowNumber": "TableField_K404KZ5IATS0_1J047OYWOAKG0"
+}]
